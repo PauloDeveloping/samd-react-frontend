@@ -1,0 +1,20 @@
+.sidebar {
+    background-color: #1D7AB8;
+    color: #FFF;
+}
+
+.page-title {
+    color: #fff;
+    font-size: 3em;
+    font-weight: bolder;
+    text-align: center;
+	text-shadow: 2px 2px 2px #000;
+	margin: 3vh 0vw;
+}
+
+.sidenav---sidenav---_2tBP {
+
+    min-height: max-content !important;
+    height: max-content !important;
+    max-height: max-content !important;
+}
